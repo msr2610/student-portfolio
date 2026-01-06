@@ -179,13 +179,13 @@ const App = () => {
       <div className="bg-white rounded-xl p-6 shadow-lg">
         <h2 className="text-2xl font-bold mb-4 text-gray-800">Connect With Me</h2>
         <div className="flex gap-4">
-          <a href="#" className="flex items-center gap-2 bg-gray-800 text-white px-6 py-3 rounded-lg hover:bg-gray-700 transition">
+          <a href="javascript:void(0)" className="flex items-center gap-2 bg-gray-800 text-white px-6 py-3 rounded-lg hover:bg-gray-700 transition">
             <Github size={20} /> GitHub
           </a>
-          <a href="#" className="flex items-center gap-2 bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition">
+          <a href="javascript:void(0)" className="flex items-center gap-2 bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition">
             <Linkedin size={20} /> LinkedIn
           </a>
-          <a href="#" className="flex items-center gap-2 bg-red-600 text-white px-6 py-3 rounded-lg hover:bg-red-700 transition">
+          <a href="javascript:void(0)" className="flex items-center gap-2 bg-red-600 text-white px-6 py-3 rounded-lg hover:bg-red-700 transition">
             <Mail size={20} /> Email
           </a>
         </div>
